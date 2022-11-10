@@ -24,5 +24,6 @@ def multi_scan(min, max, target = target):
     
     return available_ports
 
-# print(single_scan(5000))
+# Test
+print(single_scan(5000))
 print(multi_scan(1, 5000))
